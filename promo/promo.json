@@ -1,5 +1,17 @@
 {
   "version": 1,
   "list": [
-      ]
+    {
+      "promoUrl": "https://play.google.com/store/apps/details?id=com.kuyu.paint",
+      "defaultText": "Unleash your creativity with Paint Canvas Art & Mandala!",
+      "localizations": {
+        "en": "Unleash your creativity with Paint Canvas Art & Mandala!",
+        "ru": "Раскройте свой творческий потенциал с Paint Canvas Art & Mandala!",
+        "es": "¡Desata tu creatividad con Paint Canvas Art & Mandala!",
+        "pt": "Liberte sua criatividade com Paint Canvas Art & Mandala!",
+        "hi": "Paint Canvas Art & Mandala के साथ अपनी रचनात्मकता को उजागर करें!",
+        "fr": "Libérez votre créativité avec Paint Canvas Art & Mandala !"
+      }
+    }
+  ]
 }
